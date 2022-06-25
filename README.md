@@ -79,3 +79,5 @@ Here is a list of different usernames for each group member:
 (the others seem unchanged)
 
 Also, when whe programmed together we put the initials of each name on the commit description (ex : BBG = Bernaud / Bone / Gazzera)
+
+Made in 2021-2022
